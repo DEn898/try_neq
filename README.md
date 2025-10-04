@@ -1,2 +1,2 @@
 # try_neq
-nth
+"Hello world"
